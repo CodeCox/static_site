@@ -1,3 +1,5 @@
 Static Sites Test Harness using gh-pages
-* main branch with docs folder for site
-* render site locally and copy output folder contents to `docs`
+* repo settings publish from 'main/doc'
+* render site locally and copy output folder contents to `static_sites/docs`
+* [test site](https:/codecox.github.io/static_site/)
+
